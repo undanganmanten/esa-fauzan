@@ -701,6 +701,7 @@ img{
 .waktu a{
   padding-top: 20px;
   margin-left: -60px;
+  z-index: 100;
 }
 
 .bingkai-date img{
